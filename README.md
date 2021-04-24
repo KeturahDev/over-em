@@ -1,23 +1,42 @@
 # [React App Template](https://www.linkedin.com/in/keturah-howard-dev/)
 
-By: Keturah Howard _Month date 2021_
+By: Keturah Howard _April 24th 2021_
 
 ## Description
 
-An app focused around [main functionality]. Created for the purpose of [solution] for [this problem].
+An app focused around a thought exercise I found on [youtube](https://www.youtube.com/watch?v=Uxn3PtjWY_U). Created for the purpose of stopping a reptative thought/story that we play in our minds that makes us feel worse, and letting go of the person in that story.
 
-[Coming soon- hosting
+### Ideal Audiance
+
+- Those who are still in love/ missing their ex.
+- Those who are glorifyiing and idealizing their past relationship
+- Those who know that they have to move on and are mostly through the greiving process.
+
+[Coming soon- hosting. for now here's my other site Catter
 ](https://master.d2rd0wm9h254t.amplifyapp.com/)
 
 ## Behavior List
 
+### MVP
+
+- user can list all negatives of the person they are trying to move on from
+- user can list all that they gain from repeating the sarrow story to themselves
+- user can list out all the things they want to do and become from this point forward
+- user can gain insight into each part of the exercise by clickin on title of each section and clicking on 'how' button newar title
+- user can watch video that inspired the app
+
+### Stretch Goals
+
+- user can export their list to save it on their phone or computer
+
 ## Specs
 
-| Behavior  |                  Input                   |                                   Output |
-| --------- | :--------------------------------------: | ---------------------------------------: |
-| open page |      click on link from this readme      |                         my page opens :) |
-| filler    |                  filler                  |                                   filler |
-| hire me?  | you check out my work and your impressed | you extend me an offer on your cool team |
+| Behavior                                       |         Input          |                           Output |
+| ---------------------------------------------- | :--------------------: | -------------------------------: |
+| ability to find out the purpose of the app     | click on "why" button  |                      blurb opens |
+| ability to learn more about how to use the app | click on "how" button  |                      blurb opens |
+| can exit blurbs                                | blurb is open, click x | homescreen is in full view again |
+| filler                                         |     filler action      |                    filler output |
 
 ## Technologies Used
 
@@ -25,7 +44,6 @@ An app focused around [main functionality]. Created for the purpose of [solution
 - JavaScript
 - AWS Amplify
 - styled components
-- axios
 
 ## Liscense
 
