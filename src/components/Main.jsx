@@ -1,5 +1,6 @@
 import React from 'react';
-import styled from 'styled-components'
+import styled from 'styled-components';
+import List from "./List";
 
 const Box = styled.div`
   display: flex;
@@ -11,7 +12,9 @@ const Box = styled.div`
 const Main = () => {
   return (
       <Box>
-        Main content's components.
+        <List titleName="Things I dont like" />
+        <List titleName="Reasons I think of them" />
+        <List titleName="The new me I want to be" />
       </Box>
   )
 }
